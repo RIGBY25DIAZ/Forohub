@@ -1,4 +1,4 @@
-Forohub
+ForoHub
 
 ForoHub es una API creada con Spring Boot que sirve como foro para estudiantes de programación. La plataforma permite a los estudiantes buscar ayuda con los temas que están aprendiendo en sus cursos 
 y recibir respuestas de otros estudiantes. El proyecto incluye procesos de autenticación y autorización utilizando tokens Spring Security y JWT, y cuenta con una funcionalidad CRUD (Crear, Leer, Actualizar, 
